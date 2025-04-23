@@ -1,4 +1,4 @@
-# Trabajo Práctico N° 1 - JavaScript
+# Trabajo Práctico N° 2 - JavaScript
 
 Este proyecto consiste en una serie de **ejercicios prácticos en JavaScript** con dificultad creciente. Está orientado a reforzar los conocimientos básicos de lógica de programación.
 
